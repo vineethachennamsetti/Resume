@@ -1,0 +1,125 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  h1 {
+    padding-left: 40px;
+    color: white;
+    background-color: green;
+    font-size: 50px;
+  }
+  img{
+    width: 130px;
+    height: 130px;
+    float:right;
+    text-align: center;
+    margin-right: 120px;
+    margin-top: 10px;
+  }
+  .aa{
+    padding-left: 90px;
+    margin-top: 8px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .intro{
+    margin-bottom: 5px;
+  }
+  b {
+    margin-left: 100px;
+  }
+  a {
+    text-decoration: none;
+  }
+  a:hover{
+    color: red;
+  }
+  a:visited{
+    color:greenyellow;
+  }
+
+  .career {
+    background-color: burlywood;
+    padding: 20px 0 20px 0;
+    padding-left: 50px;
+    margin-bottom: 20px;
+    padding-right: 40px;
+  }
+  .h2 {
+    text-decoration: underline;
+  }
+  .personal {
+    background-color:blanchedalmond;
+    padding: 10px 0 20px 0;
+    margin-bottom: 20px;
+    padding-left: 50px;
+  }
+  .education{
+    background-color:aquamarine;
+    padding: 10px 0 20px 0;
+    margin-bottom: 20px;
+    padding-left: 50px;
+    font-size: 20px;
+
+  }
+  .skills{
+    background-color: burlywood;
+    padding: 10px 0 20px 0;
+    padding-left: 50px;
+    margin-bottom: 20px;
+  }
+  ul{
+    margin-top: 5px;
+    padding-left: 20px; 
+    font-style:italic;
+    text-decoration:underline;  
+    color: blue; 
+    font-size: 20px;
+  }
+  li{
+    padding-left: 28px;
+    margin-top: 5px;
+    font-size: 20px;
+  }
+table,
+  tr,
+  td,
+  th {
+    border: 2px solid royalblue;
+    border-collapse: collapse;
+    padding-top: 20px;
+    margin-top: 20px;
+  
+    padding-left: 15px;
+    margin-bottom: 10px;
+  }
+  
+  #col {
+    color: black;
+
+  }
+  tr {
+    color: black;
+  }
+.intern{
+  background-color:bisque;
+  padding: 10px 0 20px 0;
+  padding-left: 50px;
+  margin-bottom: 20px;
+  padding-right: 20px;
+
+}
+.project{
+  background-color:palevioletred;
+  padding:10px 0 20px 0 ;
+  padding-left: 50px;
+  margin-bottom: 20px;
+  padding-right: 20px;
+}
+.thank{
+  text-align: center;
+  margin-bottom: 20px;
+  padding-left: 45px;
+  font-size: 20px;
+}
